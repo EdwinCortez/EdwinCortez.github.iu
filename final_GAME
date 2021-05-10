@@ -1,1 +1,25 @@
+  
+<html>
+<h1> DEVLOG 5/11</h1>
+<h1>  </h1>
+<body>
+<p><h2>-----MAP-----</h2>/p>
+<p>*new building added.</p>
+<p>*fog ambientation added.</p>
+<p><h2>------STORY---</h2><p>
+<p>* The caracther will be placed in the middel of two walls, as he wall forward he will see a buillding , he will have to wall throught the door</p>
+<p> and there will be a teleporter to another place which will look like if it is inside of the building but it will not</p>
+<p> Pd: I still do not create the place the tp, but it will be the next thing that I will do</p>
 
+  <h1> these are some images of my work</h1>
+  <h2>MAP</h2>
+<img src="DEMO_GAME_pic1.png" height="600">
+<img src="DEMO_GAME_pic2.png" height="600">
+<img src="DEMO_GAME_pic3.png" height="600">
+<h2>Firts Person BP</h2>
+<img src="DEMO_GAME_FP_BP.png" height="600">
+<h2>Materials
+<img src="DEMO_GAME_matirials.png" height="600">
+<h2>Movement</h2>
+<img src="DEMO_GAME_movement.png" height="600">
+</html>
